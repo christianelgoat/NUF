@@ -1,0 +1,5 @@
+{
+  "name": "NUF Prioritization Table",
+  "description": "An elegant and professional web application to display a NUF (Novelty, Utility, Feasibility) prioritization table for feature analysis, based on a provided image.",
+  "requestFramePermissions": []
+}
