@@ -71,7 +71,7 @@ const App: React.FC = () => {
       <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-lg">
         <div className="p-6">
             <h1 className="text-2xl font-bold text-slate-800">Tabla de Priorización NUF</h1>
-            <p className="mt-1 text-slate-500">Llena con un análisis de sus ideas:</p>
+            <p className="mt-1 text-slate-500"> </p>
         </div>
         <PrioritizationTable data={TABLE_DATA} />
       </div>
